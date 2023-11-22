@@ -1,0 +1,17 @@
+.main-ul{
+    list-style: none;
+}
+.main-ul li{
+    list-style: none;
+}
+
+.icon-class{
+    display: flex;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+.icon-div{
+    background-color: rgb(210, 139, 9);
+    padding: 4px 8px ;
+    border-radius: 50%;
+}
